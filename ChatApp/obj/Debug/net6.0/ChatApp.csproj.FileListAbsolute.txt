@@ -1,0 +1,5 @@
+C:\GitGeekBrains\Chat\ChatApp\obj\Debug\net6.0\ChatApp.csproj.AssemblyReference.cache
+C:\GitGeekBrains\Chat\ChatApp\obj\Debug\net6.0\ChatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitGeekBrains\Chat\ChatApp\obj\Debug\net6.0\ChatApp.AssemblyInfoInputs.cache
+C:\GitGeekBrains\Chat\ChatApp\obj\Debug\net6.0\ChatApp.AssemblyInfo.cs
+C:\GitGeekBrains\Chat\ChatApp\obj\Debug\net6.0\ChatApp.csproj.CoreCompileInputs.cache
